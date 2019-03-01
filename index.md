@@ -2,19 +2,19 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Plotting and Programming in Python"
-address: "The Jackson Laboratory, Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
+address: "The Jackson Laboratory, Breezeway Bioinformatics Training Room 1540, building 1, unit 5, 600 Main Street, Bar Harbor, Maine"
 country: "us"
 language: "en"
 latlng: "44.365331,-68.196979"
 humandate: "Mar 27-28, 2019"
-humantime: "9:00 am - 4:30 pm"
+humantime: "9:00 am - 4:30 pm Wed; 9:00 am - 12:30 pm Thu"
 startdate: 2019-03-27
 enddate: 2019-03-28
-instructor: ["", ""]
-helper: ["", ""]
+instructor: [""]
+helper: [""]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-03-27-python-bh
-eventbrite:
+eventbrite: 57835502545
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -87,7 +87,6 @@ address.
 {% if page.latlng %}
 <p id="where">
 <strong>Where:</strong>
-Breezeway Bioinformatics Training Room 1540, building 1, unit 5.
 {{page.address}}.
 Get directions with
 <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
