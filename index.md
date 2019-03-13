@@ -10,7 +10,7 @@ humandate: "Mar 27-28, 2019"
 humantime: "9:00 am - 4:30 pm Wed; 9:00 am - 12:30 pm Thu"
 startdate: 2019-03-27
 enddate: 2019-03-28
-instructor: [""]
+instructor: ["Sue McClatchy", "Georgi Kolishovski"]
 helper: [""]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-03-27-python-bh
