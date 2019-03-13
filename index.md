@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm Wed; 9:00 am - 12:30 pm Thu"
 startdate: 2019-03-27
 enddate: 2019-03-28
 instructor: ["Sue McClatchy", "Georgi Kolishovski"]
-helper: [""]
+helper: ["Mandy Chen"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-03-27-python-bh
 eventbrite: 57835502545
